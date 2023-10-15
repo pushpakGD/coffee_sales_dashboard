@@ -12,4 +12,4 @@ You can download the excel dashboard and the data file from the data folder.
 - User-Friendly Interface: Easy navigation and intuitive design for seamless data exploration.
 - Exportable Reports: Generate and share detailed reports for further analysis or presentations.
 
-  
+ ![csdb](https://github.com/pushpakGD/coffee_sales_dashboard/blob/main/images/csdb.png)
