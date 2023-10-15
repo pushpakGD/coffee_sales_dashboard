@@ -2,7 +2,7 @@
 
 This repository contains an interactive Excel dashboard for tracking and analyzing coffee sales data. This sample dashboard provides a visual representation of key metrics, allowing for quick and informed business decisions. Developed as part of a practice initiative in building Excel dashboards, this tool can enhance your coffee sales management experience. 
 
-You can download the excel dashboard and the data file from the data folder.
+You can download the excel dashboard and the data file from this repository.
 
 ### Features:
 
